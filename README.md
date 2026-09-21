@@ -16,7 +16,7 @@ jupyter notebook
 ## Mappar
 
 - `kapitel-01-introduktion/` - Kapitel 1
-- `kapitel-02-databehandling/` - Kapitel 2
+- `kapitel-02-ml-projekt/` - Kapitel 2
 - `kapitel-03-regression/` - Kapitel 3
 - `kapitel-04-klassificering/` - Kapitel 4
 - `kapitel-05-dimensionsreducering/` - Kapitel 5
