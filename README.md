@@ -24,4 +24,4 @@ pip install -r requirements.txt
 
 ## Bonus
 
-- MNIST Streamlit-app: `streamlit run kapitel-04-klassificering/streamlit_app/app.py`
+- MNIST Streamlit-app: `streamlit run kapitel-04-klassificering/koduppgifter/streamlit_app/app.py`
